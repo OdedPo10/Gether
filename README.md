@@ -6,8 +6,10 @@ Gether is a mobile application that helps friends track each other on a trip and
 **Client:** React Native, Expo, Socket.io, Google Maps API,TripAdvisor API
 
 **Server:** Node, Express, MongoDB, render, axios , jwt, bcrypt, cloudinary
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/117068021/219950293-b9e7c463-53fb-4e55-8066-15d94024a1df.gif" alt="animated" />
+</p>
 
-![Better2Gether](https://user-images.githubusercontent.com/117068021/219950293-b9e7c463-53fb-4e55-8066-15d94024a1df.gif)
 
 ## Summary
 
