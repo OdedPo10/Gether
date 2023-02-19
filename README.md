@@ -7,8 +7,7 @@ Gether is a mobile application that helps friends track each other on a trip and
 
 **Server:** Node, Express, MongoDB, render, axios , jwt, bcrypt, cloudinary
 
-
-https://user-images.githubusercontent.com/117068021/219950136-97b29e7d-ab69-4b10-a492-e6e05b189307.mp4
+![Better2Gether](https://user-images.githubusercontent.com/117068021/219950293-b9e7c463-53fb-4e55-8066-15d94024a1df.gif)
 
 ## Summary
 
