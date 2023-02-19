@@ -1,6 +1,6 @@
 # Gether
 
-Gether is a mobile application that helps friends track each other on a trip and find the closest restaurant to their location. The app uses real-time location tracking and microservices architecture to easily integrates with the Google Maps API and TripAdvisor API to provide users with a seamless and efficient experience.
+Gether is a mobile application that helps friends track each other on a trip and find the closest restaurant to their location. The app uses real-time location tracking and microservices architecture to easily integrates with the Google Maps API and TripAdvisor API to provide users with a seamless and efficient experience
 ## Tech Stack
 
 **Client:** React Native, Expo, Socket.io, Google Maps API,TripAdvisor API
